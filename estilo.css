@@ -1,0 +1,8 @@
+body {background: #FFDAB9; }
+h1 {font-family:helvetica, arial, courier;}
+p {color: purple;}
+caption {color: #1ed4ac;}
+tr {border: 2px solid black;}
+table {border-collapse: collapse; background: #DA70D6;}
+th {border: 2px dashed black; border-collapse: collapse;}
+td {border: 2px solid black;}
